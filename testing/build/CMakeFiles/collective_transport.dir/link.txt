@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -g  -shared  -o libcollective_transport.so CMakeFiles/collective_transport.dir/collective_transport.cpp.o CMakeFiles/collective_transport.dir/cmd.cpp.o -largos3core_simulator -largos3plugin_simulator_kheperaiv -largos3plugin_simulator_genericrobot 

@@ -1,4 +1,0 @@
-/home/sanjuksha/This_is_it/Collective_Transport_OCB/testing/build/CMakeFiles/edit_cache.dir
-/home/sanjuksha/This_is_it/Collective_Transport_OCB/testing/build/CMakeFiles/rebuild_cache.dir
-/home/sanjuksha/This_is_it/Collective_Transport_OCB/testing/build/CMakeFiles/trajectory_loop_functions.dir
-/home/sanjuksha/This_is_it/Collective_Transport_OCB/testing/build/CMakeFiles/collective_transport.dir
